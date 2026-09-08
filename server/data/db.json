@@ -1,0 +1,49 @@
+{
+  "buyLots": [
+    {
+      "id": "lot-1",
+      "fundName": "Parag Parikh Flexi Cap Fund",
+      "buyDate": "2024-10-15",
+      "initialUnits": 100,
+      "remainingUnits": 100,
+      "pricePerUnit": 52.4,
+      "investedAmount": 5240,
+      "status": "ACTIVE",
+      "createdAt": "2024-10-15T10:00:00.000Z"
+    },
+    {
+      "id": "lot-2",
+      "fundName": "Parag Parikh Flexi Cap Fund",
+      "buyDate": "2025-03-20",
+      "initialUnits": 80,
+      "remainingUnits": 80,
+      "pricePerUnit": 56.1,
+      "investedAmount": 4488,
+      "status": "ACTIVE",
+      "createdAt": "2025-03-20T10:00:00.000Z"
+    },
+    {
+      "id": "lot-3",
+      "fundName": "Parag Parikh Flexi Cap Fund",
+      "buyDate": "2025-11-10",
+      "initialUnits": 50,
+      "remainingUnits": 50,
+      "pricePerUnit": 61.8,
+      "investedAmount": 3090,
+      "status": "ACTIVE",
+      "createdAt": "2025-11-10T10:00:00.000Z"
+    },
+    {
+      "id": "lot-4",
+      "fundName": "Parag Parikh Flexi Cap Fund",
+      "buyDate": "2026-04-12",
+      "initialUnits": 120,
+      "remainingUnits": 120,
+      "pricePerUnit": 68.25,
+      "investedAmount": 8190,
+      "status": "ACTIVE",
+      "createdAt": "2026-04-12T10:00:00.000Z"
+    }
+  ],
+  "sellTransactions": []
+}
